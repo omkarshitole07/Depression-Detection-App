@@ -7,7 +7,7 @@ Our project is a mobile app that utilizes facial recognition AI to detect signs 
 
 To install this project, follow these steps:
 
-1. Clone the repository to your local machine.
+1. Clone the repository "StressOut-App-sourcecode" to your local machine.
 2. Install Node.js and npm if you haven't already.
 3. Run `npm install` to install all necessary dependencies.
 
